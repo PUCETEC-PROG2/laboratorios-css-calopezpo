@@ -1,4 +1,13 @@
 /* Los estilos se aplican a todo el documento */
 body {
+    background-image: linear-gradient(135deg, rgba(color#273a6e), rgba(color#5c3266),
+    url('../assets/imagenes/white-low-poly-background-338.jpg);
     
+    background-size: cover;
+    
+    background-attachment: fixed;
+    
+    color: rgb(4, 22, 39);
 }
+
+
